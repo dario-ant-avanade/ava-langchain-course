@@ -1,0 +1,6 @@
+databricks-langchain
+databricks-sql-connector
+langchain
+langchain-core==0.3.33
+langchain-community==0.3.16
+langchain-databricks
